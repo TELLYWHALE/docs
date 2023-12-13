@@ -1,4 +1,4 @@
-# GitHub/WHALEDONE ENT Docs <!-- omit in toc -->
+# GitHub / WHALEDONE ENT Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
